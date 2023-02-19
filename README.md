@@ -1,12 +1,27 @@
-Hi! My name is Cody Perry ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==================================================================================================================================
+<h1 align="left"> Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Cody Perry</h1>
 
-Front End Engineer @ Conservice
+# 💫 About Me :
+- 🔭 <em>Front End Engineer @ <a href="https://conservice.com/">Conservice</a></em>
+- 🌱 I’m currently learning more about TypeScript.
+- 💬 Ask me about React or any tech-related stuff.
+- 📫 How to reach me: Check social links below.
 
-## Tech Stack 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codyperry24)
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 💻 Tech Stack
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-## Github Stats 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodyJPerry&theme=tokyonight"/>
+</p>
 
-<a href="http://www.github.com/CodyJPerry"><img src="https://github-readme-stats.vercel.app/api?username=CodyJPerry&show_icons=true&hide=issues,contribs&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="CodyJPerry's GitHub stats" /></a>
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodyJPerry&theme=tokyonight" />
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodyJPerry&theme=tokyonight" />
+</p>
