@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning more about TypeScript.
 - 💬 Ask me about React or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
+- ⚡ Fun fact: I love Marvel movies and Pittsburgh sports.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codyperry24)
