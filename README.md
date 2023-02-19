@@ -1,7 +1,4 @@
-<h1 align="left"> Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Cody Perry</h1>
+![Header](./profile-header-image.png)
 
 # 💫 About Me :
 - 🔭 <em>Front End Engineer @ <a href="https://conservice.com/">Conservice</a></em>
