@@ -1,4 +1,4 @@
-![Header](./cperry-header-banner.png)
+![Header](./profile-header-image.png)
 
 # 💫 About Me :
 - 🔭 <em>Front End Engineer @ <a href="https://conservice.com/">Conservice</a></em>
