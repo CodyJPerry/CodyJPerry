@@ -7,7 +7,7 @@
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I love Marvel movies and Pittsburgh sports.
 
-![](https://komarev.com/ghpvc/?username=CodyJPerry&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=CodyJPerry&style=flat-square&abbreviated=true)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cody-j-perry)
