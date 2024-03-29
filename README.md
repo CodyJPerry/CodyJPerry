@@ -1,27 +1,23 @@
 ![Header](./profile-header-image.png)
 
-# 💫 About Me :
-- 🔭 <em>Front End Engineer @ <a href="https://conservice.com/">Conservice</a></em>
-- 🌱 I’m currently learning more about TypeScript.
-- 💬 Ask me about React or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I love Marvel movies and Pittsburgh sports.
+<h1 align="center">Hi 👋, I'm Cody Perry</h1>
+<h3 align="center">Senior Front End Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodyJPerry&label=Profile%20views&color=0e75b6&style=flat" alt="Cody Perry" /> </p>
+<p>I'm Cody Perry, a Senior Front End Engineer with a passion for creating user-friendly and responsive web experiences. I leverage my 7+ years of experience in HTML, CSS, JavaScript, and other front-end technologies to tackle complex problems and exceed user expectations. I thrive on new challenges and actively look for ways to collaborate and contribute to successful high-performing web applications.</p>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cody-j-perry)
+- 🛠️ I’m currently building: **Arcane Forge**
 
-## 💻 Tech Stack
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+- 📚 I’m currently learning: **React, Accessibility, and Data Visualization**
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodyJPerry&theme=tokyonight"/>
-</p>
+- 💬 Ask me about **React, Front End Engineering, and UI Development**
 
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodyJPerry&theme=tokyonight" />
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodyJPerry&theme=tokyonight" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodyJPerry&show_icons=true&locale=en&layout=compact" alt="CodyJPerry" />&nbsp;</p>
+<br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodyJPerry" alt="CodyJPerry" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodyJPerry&show_icons=true&locale=en" alt="CodyJPerry" /></p>
+
+<a href="https://app.daily.dev/cperry"><img src="https://api.daily.dev/devcards/v2/knweHBYfh.png?r=4mc" width="356" alt="Cody Perry's Dev Card"/></a>
