@@ -5,7 +5,7 @@
 
 <p>I'm Cody Perry, a Senior Front End Engineer with a passion for creating user-friendly and responsive web experiences. I leverage my 7+ years of experience in HTML, CSS, JavaScript, and other front-end technologies to tackle complex problems and exceed user expectations. I thrive on new challenges and actively look for ways to collaborate and contribute to successful high-performing web applications.</p>
 
-- 🛠️ I’m currently building: **Arcane Forge**
+- 🛠️ I’m currently building: **SkillVoyage**
 
 - 📚 I’m currently learning: **React, Accessibility, and Data Visualization**
 
