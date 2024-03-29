@@ -1,4 +1,4 @@
-![Header](./profile-header-image.png)
+![Header](./cperry-banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Cody Perry</h1>
 <h3 align="center">Senior Front End Engineer</h3>
